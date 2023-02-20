@@ -1,2 +1,2 @@
-import numpy as np
-print(np.sqrt(4))
+t = 2+3
+print(t)
